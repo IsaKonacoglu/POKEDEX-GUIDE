@@ -10,4 +10,4 @@
 
 <h2>Ekran Goruntusu</h2>
 
-![](ekran gif)# POKEDEX-GUIDE
+![](ekran gif) POKEDEX-GUIDE
